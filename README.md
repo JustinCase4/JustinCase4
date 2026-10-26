@@ -8,7 +8,7 @@ I build web and mobile applications that turn everyday business problems into pr
 
 ## What I'm building
 
-### Phanda
+### Phinder
 
 A business discovery platform focused on helping South African small and township businesses connect with their communities.
 
