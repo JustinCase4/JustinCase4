@@ -6,14 +6,6 @@ I build web and mobile applications that turn everyday business problems into pr
 
 ---
 
-## What I'm building
-
-### Phinder
-
-A business discovery platform focused on helping South African small and township businesses connect with their communities.
-
-The goal is straightforward: make local businesses easier to discover and give entrepreneurs a stronger digital presence.
-
 ## Areas of focus
 
 - Web and mobile application development
